@@ -3,5 +3,5 @@
 
 - 🔭 I'm currently working on my first plugin, ServerControl
 - 🌱 I'm currently learning Java
-- 💻 Reach out to me via discord: [TogunGaming#2665](https://togun.eu/contact) or join my [Discord](https://discord.gg/ncHty2A6na)
+- 💻 Reach out to me via discord: [TogunGaming#2665]() or join my [Discord](https://discord.gg/ncHty2A6na)
 - 😄 Pronouns: he/him
