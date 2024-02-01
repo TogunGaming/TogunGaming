@@ -3,3 +3,5 @@
 
 - 💻 Reach out to me via discord: [togungaming]() or join my [Discord](https://discord.gg/ncHty2A6na)
 - 😄 Pronouns: he/him
+- Current Project: https://github.com/Crackhead-devs/RTOD
+- [dev.togun.eu - Development Website](https://dev.togun.eu)
